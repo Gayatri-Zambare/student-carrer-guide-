@@ -1,0 +1,17 @@
+[
+  {"id": 1, "name": "Mathematics", "category": "Quantitative", "description": "Mathematical calculation, algebraic reasoning, and numerical problem solving"},
+  {"id": 2, "name": "Logical Reasoning", "category": "Cognitive", "description": "Deductive logic, pattern recognition, and systematic thinking"},
+  {"id": 3, "name": "Programming", "category": "Technical", "description": "Writing clean code, algorithmic problem solving, and software engineering"},
+  {"id": 4, "name": "Communication", "category": "Interpersonal", "description": "Verbal and written articulation, active listening, and client interaction"},
+  {"id": 5, "name": "Writing", "category": "Communication", "description": "Drafting reports, storytelling, technical documentation, and essays"},
+  {"id": 6, "name": "Creativity", "category": "Creative", "description": "Original ideation, lateral thinking, visual aesthetics, and artistic design"},
+  {"id": 7, "name": "Problem Solving", "category": "Cognitive", "description": "Diagnosing complex issues and creating practical, viable solutions"},
+  {"id": 8, "name": "Leadership", "category": "Management", "description": "Motivating teams, setting vision, strategic planning, and delegating"},
+  {"id": 9, "name": "Teamwork", "category": "Interpersonal", "description": "Collaborative peer communication, cross-functional synergy, and reliability"},
+  {"id": 10, "name": "Analytical Thinking", "category": "Cognitive", "description": "Breaking down information, quantitative synthesis, and evidence-based deductions"},
+  {"id": 11, "name": "Research", "category": "Analytical", "description": "Conducting literature reviews, hypothesis testing, and investigative discovery"},
+  {"id": 12, "name": "Time Management", "category": "Organizational", "description": "Prioritization, meeting deadlines, efficiency, and project milestone tracking"},
+  {"id": 13, "name": "Presentation", "category": "Communication", "description": "Public speaking, pitch delivery, slide preparation, and audience engagement"},
+  {"id": 14, "name": "Data Analysis", "category": "Technical", "description": "Working with datasets, statistical analysis, metrics, and visualization"},
+  {"id": 15, "name": "Design", "category": "Creative", "description": "User experience, visual interfaces, typography, prototyping, and layout principles"}
+]

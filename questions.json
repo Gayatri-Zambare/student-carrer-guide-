@@ -1,0 +1,334 @@
+[
+  {
+    "id": 1,
+    "category": "Interests",
+    "question_text": "Which type of activity do you enjoy most?",
+    "question_type": "single_choice",
+    "options": [
+      "Solving logical problems",
+      "Creating websites/apps",
+      "Designing visual content",
+      "Working with numbers/business",
+      "Helping and communicating with people",
+      "Conducting scientific experiments",
+      "Writing and researching",
+      "Organizing and managing activities"
+    ],
+    "weight": 1.0,
+    "field_key": "enjoyed_activity"
+  },
+  {
+    "id": 2,
+    "category": "Interests",
+    "question_text": "Which subjects do you naturally enjoy learning or studying?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Economics",
+      "Business Studies",
+      "Accountancy",
+      "English/Languages",
+      "Psychology",
+      "History/Political Science",
+      "Art/Design"
+    ],
+    "weight": 1.0,
+    "field_key": "favorite_subjects"
+  },
+  {
+    "id": 3,
+    "category": "Interests",
+    "question_text": "What kind of problem would you enjoy solving most?",
+    "question_type": "single_choice",
+    "options": [
+      "Technical problems",
+      "Business problems",
+      "Social problems",
+      "Scientific problems",
+      "Creative problems",
+      "Financial problems",
+      "Environmental problems"
+    ],
+    "weight": 1.0,
+    "field_key": "problem_type"
+  },
+  {
+    "id": 4,
+    "category": "Interests",
+    "question_text": "Which activity would you prefer during your free or project time?",
+    "question_type": "single_choice",
+    "options": [
+      "Building something",
+      "Learning technology",
+      "Reading/researching",
+      "Creating designs/videos",
+      "Managing a project",
+      "Helping others",
+      "Analyzing data",
+      "Starting a business"
+    ],
+    "weight": 1.0,
+    "field_key": "free_time_activity"
+  },
+  {
+    "id": 5,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Mathematics (numerical calculation, algebra, formulas)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Mathematics"
+  },
+  {
+    "id": 6,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Logical Reasoning (pattern recognition, deductive thinking)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Logical Reasoning"
+  },
+  {
+    "id": 7,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Programming & Coding (writing scripts, code, logic)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Programming"
+  },
+  {
+    "id": 8,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Communication (verbal articulation, active listening)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Communication"
+  },
+  {
+    "id": 9,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Writing (reports, essays, articles, documentation)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Writing"
+  },
+  {
+    "id": 10,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Creativity (original ideation, visual styling, lateral thinking)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Creativity"
+  },
+  {
+    "id": 11,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Problem Solving (diagnosing hurdles and finding solutions)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Problem Solving"
+  },
+  {
+    "id": 12,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Leadership (guiding, inspiring, and planning for others)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Leadership"
+  },
+  {
+    "id": 13,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Teamwork & Collaboration",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Teamwork"
+  },
+  {
+    "id": 14,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Analytical Thinking (breaking complex data into components)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Analytical Thinking"
+  },
+  {
+    "id": 15,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Research (investigative study, evaluating sources)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Research"
+  },
+  {
+    "id": 16,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Time Management & Organization",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Time Management"
+  },
+  {
+    "id": 17,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Presentation & Pitching ideas",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Presentation"
+  },
+  {
+    "id": 18,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Data Analysis & Interpretation (tables, metrics, charts)",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Data Analysis"
+  },
+  {
+    "id": 19,
+    "category": "Skills",
+    "question_text": "Rate your proficiency in Visual / Interface Design",
+    "question_type": "rating",
+    "options": ["1 - Beginner", "2 - Basic", "3 - Intermediate", "4 - Good", "5 - Excellent"],
+    "weight": 1.0,
+    "field_key": "skill_Design"
+  },
+  {
+    "id": 20,
+    "category": "Work Preferences",
+    "question_text": "When solving a difficult challenge, what approach do you naturally prefer?",
+    "question_type": "single_choice",
+    "options": [
+      "Analyze it step by step",
+      "Discuss it with others",
+      "Try creative solutions",
+      "Research before deciding"
+    ],
+    "weight": 1.0,
+    "field_key": "problem_solving_approach"
+  },
+  {
+    "id": 21,
+    "category": "Work Preferences",
+    "question_text": "Which work environment sounds most engaging and motivating to you?",
+    "question_type": "single_choice",
+    "options": [
+      "Working independently",
+      "Working in a team",
+      "Leading a team",
+      "Working with customers",
+      "Working in a laboratory",
+      "Working remotely",
+      "Working in a creative environment"
+    ],
+    "weight": 1.0,
+    "field_key": "work_environment"
+  },
+  {
+    "id": 22,
+    "category": "Work Preferences",
+    "question_text": "Which statement describes you best?",
+    "question_type": "single_choice",
+    "options": [
+      "I enjoy analyzing information",
+      "I enjoy creating things",
+      "I enjoy helping people",
+      "I enjoy leading others",
+      "I enjoy discovering new ideas",
+      "I enjoy organizing things"
+    ],
+    "weight": 1.0,
+    "field_key": "self_descriptor"
+  },
+  {
+    "id": 23,
+    "category": "Work Preferences",
+    "question_text": "How comfortable and excited are you with learning new technology tools?",
+    "question_type": "rating",
+    "options": ["1 - Very Hesitant", "2 - Somewhat Slow", "3 - Moderate", "4 - Comfortable", "5 - Enthusiastic & Quick"],
+    "weight": 1.0,
+    "field_key": "tech_comfort"
+  },
+  {
+    "id": 24,
+    "category": "Work Preferences",
+    "question_text": "How comfortable are you with public speaking or presenting to groups?",
+    "question_type": "rating",
+    "options": ["1 - Highly Anxious", "2 - Reluctant", "3 - Moderate / Manageable", "4 - Confident", "5 - Very Confident & Natural"],
+    "weight": 1.0,
+    "field_key": "public_speaking_comfort"
+  },
+  {
+    "id": 25,
+    "category": "Career Goals",
+    "question_text": "What is your primary overarching career aspiration?",
+    "question_type": "single_choice",
+    "options": [
+      "High technical expertise",
+      "Leadership/management",
+      "Creativity",
+      "Research",
+      "Entrepreneurship",
+      "Social impact",
+      "Financial growth",
+      "Stable professional career",
+      "Still exploring"
+    ],
+    "weight": 1.0,
+    "field_key": "main_career_goal"
+  },
+  {
+    "id": 26,
+    "category": "Career Goals",
+    "question_text": "Which industry or domain type interests you most?",
+    "question_type": "single_choice",
+    "options": [
+      "Technology",
+      "Healthcare",
+      "Business",
+      "Finance",
+      "Education",
+      "Government/Public Services",
+      "Design/Media",
+      "Research",
+      "Environment",
+      "Other"
+    ],
+    "weight": 1.0,
+    "field_key": "preferred_domain"
+  },
+  {
+    "id": 27,
+    "category": "Career Goals",
+    "question_text": "How important is flexible working hours and work-life balance to you?",
+    "question_type": "rating",
+    "options": ["1 - Not Important", "2 - Slightly Important", "3 - Moderately Important", "4 - Very Important", "5 - Crucial Priority"],
+    "weight": 1.0,
+    "field_key": "job_flexibility_importance"
+  },
+  {
+    "id": 28,
+    "category": "Career Goals",
+    "question_text": "How interested are you in founding your own venture or startup in the future?",
+    "question_type": "rating",
+    "options": ["1 - Not Interested", "2 - Low Interest", "3 - Maybe Someday", "4 - Quite Interested", "5 - Strongly Driven"],
+    "weight": 1.0,
+    "field_key": "entrepreneurship_interest"
+  }
+]

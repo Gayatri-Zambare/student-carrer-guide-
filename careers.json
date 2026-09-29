@@ -1,0 +1,840 @@
+[
+  {
+    "id": 1,
+    "name": "Software Developer",
+    "category": "Technology",
+    "description": "Designs, writes, tests, and maintains computer software, web systems, and mobile applications to solve real-world problems.",
+    "education_path": "B.Tech/B.E. in Computer Science/IT, BCA/MCA, or relevant certifications & portfolio projects",
+    "work_style": "Problem-focused, collaborative development, remote or office Agile environments",
+    "required_skills": ["Programming", "Problem Solving", "Logical Reasoning", "Teamwork", "Analytical Thinking"],
+    "recommended_subjects": ["Computer Science", "Mathematics", "Physics"],
+    "related_interests": ["Creating websites/apps", "Solving logical problems", "Learning technology", "Building something"],
+    "typical_responsibilities": [
+      "Develop scalable web and mobile software applications",
+      "Write efficient, clean, and maintainable source code",
+      "Collaborate with product designers, testers, and system architects",
+      "Debug issues and optimize software performance"
+    ],
+    "beginner_skills": ["HTML/CSS", "JavaScript/Python basics", "Git version control", "Data structures"],
+    "advanced_skills": ["System Architecture", "Microservices", "Cloud deployment", "CI/CD pipelines"],
+    "roadmap": [
+      {"phase": "Stage 1: Fundamentals", "title": "Master Core Programming", "description": "Learn syntax, control flow, loops, and OOP concepts in Python or JavaScript.", "topics": ["Variables & Logic", "Data Structures", "Git & GitHub"]},
+      {"phase": "Stage 2: Frontend & Backend", "title": "Build Web Applications", "description": "Develop full-stack web applications with modern frameworks and REST APIs.", "topics": ["React / Node.js", "RESTful APIs", "Relational Databases (SQL)"]},
+      {"phase": "Stage 3: Advanced Concepts", "title": "Scalability & Architecture", "description": "Master software engineering patterns, testing, and deployment.", "topics": ["Design Patterns", "Unit Testing", "Docker & Cloud Platforms"]},
+      {"phase": "Stage 4: Industry Readiness", "title": "Portfolio & Open Source", "description": "Contribute to open-source codebases and deploy production-ready capstone apps.", "topics": ["System Design", "Agile Methodologies", "Tech Interview Prep"]}
+    ],
+    "related_courses": [
+      {"title": "CS50: Introduction to Computer Science", "provider_type": "University / Open Courseware", "difficulty": "Beginner"},
+      {"title": "Full-Stack Web Development Specialization", "provider_type": "Interactive Online Course", "difficulty": "Intermediate"},
+      {"title": "System Design & Distributed Systems", "provider_type": "Advanced Engineering Series", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Frontend Engineer", "Backend Developer", "Full Stack Developer", "Mobile App Developer"],
+    "benchmark_traits": {
+      "analytical_thinking": 4,
+      "problem_solving": 5,
+      "programming": 4,
+      "creativity": 3,
+      "teamwork": 3
+    },
+    "preferred_goals": ["High technical expertise", "Technology", "Financial growth"],
+    "work_preference_matches": ["Working in a team", "Working remotely", "Analyze it step by step"]
+  },
+  {
+    "id": 2,
+    "name": "Data Analyst",
+    "category": "Technology",
+    "description": "Inspects, cleans, transforms, and models data to uncover actionable trends, generate business intelligence, and inform strategic decisions.",
+    "education_path": "Bachelor's in Statistics, Mathematics, Computer Science, Economics, or Business Analytics",
+    "work_style": "Data-driven, analytical, cross-functional collaboration with business teams",
+    "required_skills": ["Data Analysis", "Mathematics", "Analytical Thinking", "Presentation", "Logical Reasoning"],
+    "recommended_subjects": ["Mathematics", "Computer Science", "Economics", "Business Studies"],
+    "related_interests": ["Analyzing data", "Solving logical problems", "Working with numbers/business"],
+    "typical_responsibilities": [
+      "Query structured databases using SQL to extract metrics",
+      "Build dynamic dashboards using Power BI or Tableau",
+      "Perform exploratory data analysis and statistical validation",
+      "Present actionable business insights to executive stakeholders"
+    ],
+    "beginner_skills": ["Excel & Formulas", "SQL Basics", "Descriptive Statistics", "Chart visualization"],
+    "advanced_skills": ["Python / Pandas", "Advanced SQL", "Business Intelligence", "Predictive modeling"],
+    "roadmap": [
+      {"phase": "Stage 1: Spreadsheets & Math", "title": "Data Essentials & Statistics", "description": "Master advanced Excel functions, pivot tables, and fundamental statistical concepts.", "topics": ["Summary Statistics", "Probability", "Excel Pivot Tables"]},
+      {"phase": "Stage 2: Database Querying", "title": "SQL for Data Exploration", "description": "Write complex SQL queries, joins, aggregations, and window functions.", "topics": ["PostgreSQL/MySQL", "Joins & Subqueries", "Window Functions"]},
+      {"phase": "Stage 3: Business Intelligence", "title": "Interactive Dashboards", "description": "Create intuitive visual reports with Tableau or Power BI.", "topics": ["Data Storytelling", "Power BI / Tableau", "KPI Dashboards"]},
+      {"phase": "Stage 4: Python & Scripting", "title": "Automated Data Pipelines", "description": "Automate data transformation and analysis using Python and Pandas.", "topics": ["Pandas & NumPy", "Matplotlib / Seaborn", "Business Analytics Capstone"]}
+    ],
+    "related_courses": [
+      {"title": "Google Data Analytics Professional Certificate", "provider_type": "Industry Certification", "difficulty": "Beginner"},
+      {"title": "Complete SQL Mastery for Analytics", "provider_type": "Specialized Course", "difficulty": "Intermediate"},
+      {"title": "Data Storytelling & Executive Presentations", "provider_type": "Business Workshop", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Business Intelligence Analyst", "Operations Analyst", "Marketing Data Analyst", "Reporting Specialist"],
+    "benchmark_traits": {
+      "analytical_thinking": 5,
+      "problem_solving": 4,
+      "data_analysis": 5,
+      "mathematics": 4,
+      "presentation": 3
+    },
+    "preferred_goals": ["High technical expertise", "Stable professional career", "Technology", "Business"],
+    "work_preference_matches": ["I enjoy analyzing information", "Analyze it step by step", "Working in a team"]
+  },
+  {
+    "id": 3,
+    "name": "Data Scientist",
+    "category": "Technology",
+    "description": "Combines statistics, machine learning algorithms, and domain expertise to build predictive models and extract deep intelligence from complex data.",
+    "education_path": "B.Tech/Master's in Data Science, Computer Science, Statistics, or Applied Mathematics",
+    "work_style": "Research-oriented, hypothesis testing, iterative scientific modeling",
+    "required_skills": ["Data Analysis", "Programming", "Mathematics", "Research", "Analytical Thinking"],
+    "recommended_subjects": ["Mathematics", "Computer Science", "Physics", "Economics"],
+    "related_interests": ["Analyzing data", "Solving logical problems", "Conducting scientific experiments", "Learning technology"],
+    "typical_responsibilities": [
+      "Formulate predictive modeling hypotheses from complex datasets",
+      "Train, fine-tune, and evaluate supervised & unsupervised ML models",
+      "Conduct feature engineering and statistical significance tests",
+      "Deploy data science models into production data pipelines"
+    ],
+    "beginner_skills": ["Python / NumPy", "Pandas data wrangling", "Linear Algebra & Calculus", "Scikit-Learn basics"],
+    "advanced_skills": ["Ensemble Methods", "Deep Learning", "MLOps", "Big Data (PySpark)"],
+    "roadmap": [
+      {"phase": "Stage 1: Mathematical Foundations", "title": "Linear Algebra & Probability", "description": "Deep understanding of vector spaces, matrices, multivariate calculus, and Bayesian probability.", "topics": ["Matrix Operations", "Probability Distributions", "Hypothesis Testing"]},
+      {"phase": "Stage 2: Machine Learning", "title": "Supervised & Unsupervised Learning", "description": "Implement regression, classification, clustering, and decision tree models.", "topics": ["Scikit-Learn", "Feature Engineering", "Cross-Validation"]},
+      {"phase": "Stage 3: Advanced Modeling", "title": "Deep Learning & NLP", "description": "Train neural networks using PyTorch or TensorFlow for computer vision or language.", "topics": ["PyTorch Basics", "Neural Networks", "NLP & Time-Series"]},
+      {"phase": "Stage 4: Production Deployment", "title": "MLOps & Model Lifecycle", "description": "Package models with FastAPI/Docker and monitor production drift.", "topics": ["Model Containerization", "MLflow", "Cloud Inference APIs"]}
+    ],
+    "related_courses": [
+      {"title": "Machine Learning Specialization by Andrew Ng", "provider_type": "University Certification", "difficulty": "Intermediate"},
+      {"title": "Applied Data Science with Python", "provider_type": "Online Specialization", "difficulty": "Intermediate"},
+      {"title": "Deep Learning Specialization", "provider_type": "DeepLearning.AI", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Machine Learning Scientist", "Decision Scientist", "Quantitative Researcher", "AI Researcher"],
+    "benchmark_traits": {
+      "analytical_thinking": 5,
+      "mathematics": 5,
+      "programming": 4,
+      "research": 4,
+      "problem_solving": 5
+    },
+    "preferred_goals": ["High technical expertise", "Research", "Technology"],
+    "work_preference_matches": ["I enjoy analyzing information", "Analyze it step by step", "Research before deciding"]
+  },
+  {
+    "id": 4,
+    "name": "AI/ML Engineer",
+    "category": "Technology",
+    "description": "Designs, trains, and deploys scalable artificial intelligence, machine learning, and deep learning systems into enterprise software products.",
+    "education_path": "B.Tech/M.Tech in Artificial Intelligence, Computer Science, or Robotics",
+    "work_style": "High-tech innovation, algorithmic engineering, experimental yet product-focused",
+    "required_skills": ["Programming", "Mathematics", "Problem Solving", "Logical Reasoning", "Data Analysis"],
+    "recommended_subjects": ["Computer Science", "Mathematics", "Physics"],
+    "related_interests": ["Learning technology", "Solving logical problems", "Building something", "Analyzing data"],
+    "typical_responsibilities": [
+      "Design neural network architectures and train deep learning models",
+      "Optimize transformer models and large language models (LLMs)",
+      "Build robust automated training and deployment pipelines (MLOps)",
+      "Optimize inference speed and resource latency on GPU clusters"
+    ],
+    "beginner_skills": ["Python", "Object-Oriented Programming", "Calculus & Linear Algebra", "PyTorch fundamentals"],
+    "advanced_skills": ["Transformers & LLMs", "TensorRT / ONNX", "Distributed Training", "Kubernetes & Vector DBs"],
+    "roadmap": [
+      {"phase": "Stage 1: Core Computer Science", "title": "Algorithms & Python Mastery", "description": "Rigorous programming, data structures, and algorithmic complexity.", "topics": ["Algorithms", "NumPy & Vectorization", "OOP & Design"]},
+      {"phase": "Stage 2: Deep Learning", "title": "PyTorch & Neural Networks", "description": "Hands-on model building with PyTorch, CNNs, RNNs, and attention mechanisms.", "topics": ["PyTorch Architecture", "Loss Functions", "Backpropagation"]},
+      {"phase": "Stage 3: Generative AI & LLMs", "title": "Modern AI Engineering", "description": "Fine-tuning models, RAG pipelines, and prompt orchestration.", "topics": ["Hugging Face", "Vector Databases", "LangChain / LlamaIndex"]},
+      {"phase": "Stage 4: MLOps at Scale", "title": "High-Throughput Production AI", "description": "Deploying scalable GPU endpoints, caching, quantization, and observability.", "topics": ["vLLM / Triton Server", "Docker & Kubernetes", "Model Monitoring"]}
+    ],
+    "related_courses": [
+      {"title": "Deep Learning & Neural Networks Bootcamp", "provider_type": "University Lab Series", "difficulty": "Intermediate"},
+      {"title": "LLM Engineering & Production MLOps", "provider_type": "Industry Accelerator", "difficulty": "Advanced"},
+      {"title": "Mathematics for Machine Learning", "provider_type": "Imperial College London", "difficulty": "Beginner"}
+    ],
+    "related_job_roles": ["Machine Learning Engineer", "GenAI Engineer", "Computer Vision Engineer", "NLP Specialist"],
+    "benchmark_traits": {
+      "programming": 5,
+      "mathematics": 5,
+      "problem_solving": 5,
+      "analytical_thinking": 4,
+      "research": 4
+    },
+    "preferred_goals": ["High technical expertise", "Technology", "Research"],
+    "work_preference_matches": ["I enjoy analyzing information", "I enjoy discovering new ideas", "Analyze it step by step"]
+  },
+  {
+    "id": 5,
+    "name": "Cybersecurity Analyst",
+    "category": "Technology",
+    "description": "Protects IT infrastructure, networks, and confidential systems from unauthorized access, cyber threats, vulnerabilities, and data breaches.",
+    "education_path": "B.Tech in IT/CS, Cybersecurity, or certifications like CompTIA Security+, CEH, CISSP",
+    "work_style": "Vigilant, investigative, protocol-driven, security operations center (SOC)",
+    "required_skills": ["Logical Reasoning", "Problem Solving", "Analytical Thinking", "Research", "Time Management"],
+    "recommended_subjects": ["Computer Science", "Mathematics", "Physics"],
+    "related_interests": ["Technical problems", "Learning technology", "Solving logical problems"],
+    "typical_responsibilities": [
+      "Monitor enterprise networks for suspicious security events and anomalies",
+      "Perform vulnerability scans and penetration testing exercises",
+      "Implement firewalls, endpoint detection, and encryption standards",
+      "Formulate incident response strategies and post-breach audits"
+    ],
+    "beginner_skills": ["Networking (TCP/IP, DNS)", "Linux commands", "Security fundamentals", "Wireshark"],
+    "advanced_skills": ["SIEM tools (Splunk)", "Threat Hunting", "Penetration Testing", "Cloud Security"],
+    "roadmap": [
+      {"phase": "Stage 1: Network & OS Basics", "title": "Computer Networks & Linux", "description": "Grasp OSI layers, IP routing, packet inspection, and Linux administration.", "topics": ["Networking Protocols", "Linux Security", "Bash Scripting"]},
+      {"phase": "Stage 2: Threat Analysis", "title": "Security Fundamentals & SIEM", "description": "Learn cyber kill-chains, malware analysis, and log analysis.", "topics": ["CompTIA Security+", "SIEM Systems", "Firewalls & VPNs"]},
+      {"phase": "Stage 3: Ethical Hacking", "title": "Vulnerability Assessment", "description": "Conduct simulated cyber attacks, port scans, and vulnerability patches.", "topics": ["Nmap & Metasploit", "OWASP Top 10", "Burp Suite"]},
+      {"phase": "Stage 4: Incident Response", "title": "SOC & Governance", "description": "Coordinate incident containment, forensics, and regulatory compliance.", "topics": ["Digital Forensics", "Incident Playbooks", "Cloud Sec (AWS/Azure)"]}
+    ],
+    "related_courses": [
+      {"title": "CompTIA Security+ Exam Prep", "provider_type": "Industry Standard", "difficulty": "Beginner"},
+      {"title": "Applied Ethical Hacking & Pentesting", "provider_type": "Hands-on Lab", "difficulty": "Intermediate"},
+      {"title": "SOC Analyst & Threat Intelligence Masterclass", "provider_type": "Specialized Program", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Information Security Analyst", "SOC Analyst", "Penetration Tester", "Security Engineer"],
+    "benchmark_traits": {
+      "analytical_thinking": 4,
+      "problem_solving": 5,
+      "logical_reasoning": 5,
+      "research": 4,
+      "time_management": 4
+    },
+    "preferred_goals": ["High technical expertise", "Technology", "Stable professional career"],
+    "work_preference_matches": ["Analyze it step by step", "Research before deciding", "Working in a team"]
+  },
+  {
+    "id": 6,
+    "name": "Cloud Engineer",
+    "category": "Technology",
+    "description": "Architects, provisions, and automates high-availability cloud infrastructure and services on platforms like AWS, Azure, and Google Cloud.",
+    "education_path": "B.Tech in CS/IT or Cloud Certifications (AWS Certified Solutions Architect, Azure Administrator)",
+    "work_style": "DevOps culture, automated deployments, infrastructure as code",
+    "required_skills": ["Programming", "Problem Solving", "Logical Reasoning", "Teamwork", "Time Management"],
+    "recommended_subjects": ["Computer Science", "Mathematics"],
+    "related_interests": ["Learning technology", "Building something", "Technical problems"],
+    "typical_responsibilities": [
+      "Design reliable, scalable cloud architecture across AWS/GCP/Azure",
+      "Automate infrastructure provisioning using Terraform / Ansible",
+      "Maintain continuous integration and continuous delivery (CI/CD) pipelines",
+      "Monitor system uptime, security policies, and cloud cost efficiency"
+    ],
+    "beginner_skills": ["Linux OS", "Cloud Fundamentals (AWS/GCP)", "Basic Python/Bash", "Networking"],
+    "advanced_skills": ["Kubernetes", "Terraform / IaC", "Multi-cloud architecture", "Site Reliability"],
+    "roadmap": [
+      {"phase": "Stage 1: Linux & Networking", "title": "Systems Foundation", "description": "Master command-line tools, SSH, DNS, and server management.", "topics": ["Linux Administration", "DNS & Subnets", "Virtual Machines"]},
+      {"phase": "Stage 2: Core Cloud Services", "title": "AWS / Azure Infrastructure", "description": "Configure compute instances, object storage, IAM policies, and VPCs.", "topics": ["AWS EC2/S3/VPC", "Identity & Access Management", "Load Balancers"]},
+      {"phase": "Stage 3: Containers & CI/CD", "title": "Docker & Automation", "description": "Containerize microservices and build automated build/deploy workflows.", "topics": ["Docker", "GitHub Actions", "Kubernetes Pods"]},
+      {"phase": "Stage 4: Infrastructure as Code", "title": "Terraform & Site Reliability", "description": "Declarative cloud definitions, zero-downtime rollouts, and telemetry.", "topics": ["Terraform", "Prometheus & Grafana", "Disaster Recovery"]}
+    ],
+    "related_courses": [
+      {"title": "AWS Solutions Architect Associate Certification Course", "provider_type": "Certification", "difficulty": "Intermediate"},
+      {"title": "Docker and Kubernetes: The Complete Guide", "provider_type": "Hands-on Workshop", "difficulty": "Intermediate"},
+      {"title": "Terraform for Infrastructure Automation", "provider_type": "Cloud Series", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["DevOps Engineer", "Cloud Architect", "Site Reliability Engineer (SRE)", "Infrastructure Engineer"],
+    "benchmark_traits": {
+      "problem_solving": 4,
+      "logical_reasoning": 4,
+      "programming": 4,
+      "teamwork": 4,
+      "time_management": 3
+    },
+    "preferred_goals": ["High technical expertise", "Technology", "Financial growth"],
+    "work_preference_matches": ["Working in a team", "Working remotely", "I enjoy organizing things"]
+  },
+  {
+    "id": 7,
+    "name": "UI/UX Designer",
+    "category": "Design",
+    "description": "Crafts intuitive, visually compelling, and human-centered digital experiences for mobile applications, web platforms, and software suites.",
+    "education_path": "B.Des in User Experience/Interaction Design, Human-Computer Interaction, or Design Bootcamps",
+    "work_style": "Empathetic, iterative prototyping, user testing, creative collaboration",
+    "required_skills": ["Design", "Creativity", "Communication", "Problem Solving", "Research"],
+    "recommended_subjects": ["Art/Design", "Psychology", "Computer Science", "English/Languages"],
+    "related_interests": ["Designing visual content", "Creating designs/videos", "Creating websites/apps", "Helping and communicating with people"],
+    "typical_responsibilities": [
+      "Conduct user research, persona definition, and user journey mapping",
+      "Build wireframes, interactive clickable prototypes, and design systems",
+      "Run usability testing sessions to identify friction points and validate concepts",
+      "Collaborate closely with frontend developers to ensure design fidelity"
+    ],
+    "beginner_skills": ["Figma basics", "Color theory & typography", "Wireframing", "User research fundamentals"],
+    "advanced_skills": ["Design Systems", "Micro-interactions", "Usability testing", "Design tokens & code sync"],
+    "roadmap": [
+      {"phase": "Stage 1: Design Principles", "title": "Visual Design & Figma", "description": "Learn typography, grids, layout hierarchy, color psychology, and Figma tools.", "topics": ["Visual Hierarchy", "Typography & Grids", "Figma Components"]},
+      {"phase": "Stage 2: UX Research & IA", "title": "User-Centric Research", "description": "Discover user pain points through interviews, user flows, and information architecture.", "topics": ["User Interviews", "Journey Maps", "Information Architecture"]},
+      {"phase": "Stage 3: Interactive Prototyping", "title": "High-Fidelity UI & Prototypes", "description": "Build responsive screen mockups with micro-animations and state transitions.", "topics": ["Auto-layout & Variants", "Interactive Prototypes", "Usability Testing"]},
+      {"phase": "Stage 4: Design Systems & Portfolio", "title": "Comprehensive Portfolio", "description": "Create scalable design token libraries and document case studies.", "topics": ["Atomic Design Systems", "Handoff to Devs", "UX Case Studies"]}
+    ],
+    "related_courses": [
+      {"title": "Google UX Design Professional Certificate", "provider_type": "Industry Certificate", "difficulty": "Beginner"},
+      {"title": "Design Systems with Figma", "provider_type": "Specialized Masterclass", "difficulty": "Intermediate"},
+      {"title": "Interaction Design Specialization", "provider_type": "University Series", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Product Designer", "User Experience Researcher", "Interaction Designer", "Visual Designer"],
+    "benchmark_traits": {
+      "design": 5,
+      "creativity": 5,
+      "communication": 4,
+      "research": 4,
+      "problem_solving": 4
+    },
+    "preferred_goals": ["Creativity", "Design/Media", "High technical expertise"],
+    "work_preference_matches": ["I enjoy creating things", "Try creative solutions", "Working in a creative environment"]
+  },
+  {
+    "id": 8,
+    "name": "Graphic Designer",
+    "category": "Design",
+    "description": "Creates visual concepts, marketing branding, digital graphics, and illustrations to communicate brand messages effectively.",
+    "education_path": "Bachelor's in Fine Arts (BFA), Graphic Design, Visual Arts, or certified portfolio",
+    "work_style": "Aesthetic, creative agency or freelance, high visual detail",
+    "required_skills": ["Design", "Creativity", "Communication", "Time Management"],
+    "recommended_subjects": ["Art/Design", "English/Languages"],
+    "related_interests": ["Designing visual content", "Creating designs/videos", "Creative problems"],
+    "typical_responsibilities": [
+      "Create marketing banners, social media collaterals, and print publications",
+      "Develop brand identity assets including logos, color guides, and iconography",
+      "Collaborate with art directors and copywriters on creative campaigns",
+      "Retouch photography and craft digital illustrations"
+    ],
+    "beginner_skills": ["Adobe Illustrator / Photoshop", "Color Harmony", "Layout composition"],
+    "advanced_skills": ["Brand Identity Strategy", "Motion Graphics", "3D illustration", "Typography mastery"],
+    "roadmap": [
+      {"phase": "Stage 1: Fundamentals", "title": "Visual Composition & Drawing", "description": "Master colors, typography, layout rules, and digital drawing tools.", "topics": ["Color Theory", "Composition Rules", "Photoshop & Illustrator"]},
+      {"phase": "Stage 2: Brand Identity", "title": "Logo & Brand Systems", "description": "Design consistent visual identities, style guides, and collateral packages.", "topics": ["Vector Art", "Logo Crafting", "Brand Style Guides"]},
+      {"phase": "Stage 3: Motion & Digital Ads", "title": "After Effects & Social Creatives", "description": "Animate graphics and design high-converting social media creatives.", "topics": ["Motion Graphics", "Ad Creatives", "Packaging Design"]},
+      {"phase": "Stage 4: Professional Portfolio", "title": "Client Work & Showcase", "description": "Build a Behance / Dribbble portfolio demonstrating diverse commercial work.", "topics": ["Print Production", "Freelance Business", "Creative Pitching"]}
+    ],
+    "related_courses": [
+      {"title": "Graphic Design Masterclass", "provider_type": "Creative Academy", "difficulty": "Beginner"},
+      {"title": "Logo Design & Brand Identity Guide", "provider_type": "Industry Pro", "difficulty": "Intermediate"},
+      {"title": "Motion Graphics in After Effects", "provider_type": "Animation Studio Course", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Brand Designer", "Visual Artist", "Motion Graphic Artist", "Creative Director"],
+    "benchmark_traits": {
+      "design": 5,
+      "creativity": 5,
+      "communication": 3,
+      "time_management": 3
+    },
+    "preferred_goals": ["Creativity", "Design/Media", "Entrepreneurship"],
+    "work_preference_matches": ["I enjoy creating things", "Try creative solutions", "Working in a creative environment"]
+  },
+  {
+    "id": 9,
+    "name": "Digital Marketing Specialist",
+    "category": "Media",
+    "description": "Drives online customer acquisition, brand awareness, and revenue growth through search engine marketing, social channels, and content campaigns.",
+    "education_path": "BBA, Bachelor's in Marketing, Mass Media, or Digital Marketing certifications",
+    "work_style": "Fast-paced, data-informed, campaign-driven, creative and analytical",
+    "required_skills": ["Communication", "Writing", "Data Analysis", "Creativity", "Analytical Thinking"],
+    "recommended_subjects": ["Business Studies", "Economics", "English/Languages", "Computer Science"],
+    "related_interests": ["Working with numbers/business", "Creating designs/videos", "Writing and researching", "Starting a business"],
+    "typical_responsibilities": [
+      "Manage paid ad campaigns across Google Ads, Meta, and LinkedIn",
+      "Optimize website content and search engine rankings (SEO)",
+      "Analyze conversion funnels, CAC, and ROI metrics with analytics tools",
+      "Plan email marketing automation sequences and social media engagement"
+    ],
+    "beginner_skills": ["Social Media Strategy", "SEO basics", "Copywriting", "Google Analytics 4"],
+    "advanced_skills": ["Performance Marketing", "Conversion Rate Optimization", "Marketing Automation", "Attribution Modeling"],
+    "roadmap": [
+      {"phase": "Stage 1: Core Channels", "title": "SEO & Content Marketing", "description": "Learn keyword research, on-page optimization, and engaging copy creation.", "topics": ["SEO Principles", "Keyword Research", "Persuasive Copywriting"]},
+      {"phase": "Stage 2: Paid Advertising", "title": "PPC & Social Media Ads", "description": "Run and optimize ad campaigns on Google Ads and Meta platforms.", "topics": ["Google Search Ads", "Meta Ads Manager", "Audience Targeting"]},
+      {"phase": "Stage 3: Analytics & Funnels", "title": "Web Analytics & CRO", "description": "Measure website traffic, track user paths, and run A/B conversion tests.", "topics": ["Google Analytics 4", "A/B Testing", "Email Automation"]},
+      {"phase": "Stage 4: Strategic Growth", "title": "Full-Funnel Growth Marketing", "description": "Orchestrate multi-channel acquisition loops and brand scaling.", "topics": ["Omnichannel Strategy", "Customer Lifetime Value", "Budget Allocation"]}
+    ],
+    "related_courses": [
+      {"title": "Meta Certified Digital Marketing Associate", "provider_type": "Official Certification", "difficulty": "Beginner"},
+      {"title": "Google Ads & Analytics Certification", "provider_type": "Google Skillshop", "difficulty": "Beginner"},
+      {"title": "Advanced Growth Marketing Strategies", "provider_type": "Executive Series", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Growth Marketer", "SEO Specialist", "Performance Marketing Manager", "Social Media Strategist"],
+    "benchmark_traits": {
+      "communication": 5,
+      "writing": 4,
+      "creativity": 4,
+      "data_analysis": 4,
+      "analytical_thinking": 3
+    },
+    "preferred_goals": ["Financial growth", "Creativity", "Entrepreneurship", "Business"],
+    "work_preference_matches": ["I enjoy creating things", "Discuss it with others", "Working in a team"]
+  },
+  {
+    "id": 10,
+    "name": "Business Analyst",
+    "category": "Business",
+    "description": "Bridges the gap between business objectives and technology solutions by analyzing requirements, workflows, and organizational operations.",
+    "education_path": "BBA, B.Tech + MBA, or B.Sc in Information Systems / Business Analytics",
+    "work_style": "Structured, consultative, stakeholder-focused, strategic",
+    "required_skills": ["Analytical Thinking", "Communication", "Problem Solving", "Presentation", "Logical Reasoning"],
+    "recommended_subjects": ["Business Studies", "Economics", "Computer Science", "Mathematics"],
+    "related_interests": ["Working with numbers/business", "Organizing and managing activities", "Business problems"],
+    "typical_responsibilities": [
+      "Elicit business requirements from executive and operational stakeholders",
+      "Document functional specifications, user stories, and process flowcharts",
+      "Analyze cost-benefit trade-offs and evaluate feasibility of tech initiatives",
+      "Facilitate user acceptance testing (UAT) and system rollouts"
+    ],
+    "beginner_skills": ["Requirement Gathering", "Flowcharting (BPMN)", "Excel data summaries", "Agile User Stories"],
+    "advanced_skills": ["Business Process Re-engineering", "SQL & Data Modeling", "Enterprise Architecture", "Change Management"],
+    "roadmap": [
+      {"phase": "Stage 1: Business Fundamentals", "title": "Organizational Strategy & Modeling", "description": "Understand corporate business models, stakeholder management, and value chains.", "topics": ["Business Models", "Stakeholder Mapping", "Excel Modeling"]},
+      {"phase": "Stage 2: Elicitation & Documentation", "title": "Requirements Engineering", "description": "Learn to write clear BRDs, FRDs, user stories, and acceptance criteria.", "topics": ["BRD & PRD Writing", "Use Case Diagrams", "BPMN Process Flows"]},
+      {"phase": "Stage 3: Agile & Tools", "title": "Jira, Confluence & Analytics", "description": "Manage agile backlogs, sprint ceremonies, and SQL-based validation.", "topics": ["Jira Scrum Boards", "SQL Querying", "UAT Planning"]},
+      {"phase": "Stage 4: Strategic Consulting", "title": "Digital Transformation & ROI", "description": "Drive high-impact enterprise projects and change initiatives.", "topics": ["Cost-Benefit Analysis", "Enterprise Systems (ERP/CRM)", "Strategic Advisory"]}
+    ],
+    "related_courses": [
+      {"title": "ECBA / CCBA Business Analysis Prep", "provider_type": "IIBA Certification", "difficulty": "Intermediate"},
+      {"title": "Agile Requirements and User Stories", "provider_type": "University Course", "difficulty": "Beginner"},
+      {"title": "Business Process Modeling & BPMN 2.0", "provider_type": "Professional Workshop", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Product Analyst", "Functional Consultant", "Operations Business Analyst", "Strategy Analyst"],
+    "benchmark_traits": {
+      "analytical_thinking": 5,
+      "communication": 5,
+      "problem_solving": 4,
+      "presentation": 4,
+      "leadership": 3
+    },
+    "preferred_goals": ["Leadership/management", "Business", "Financial growth"],
+    "work_preference_matches": ["Discuss it with others", "Analyze it step by step", "I enjoy organizing things"]
+  },
+  {
+    "id": 11,
+    "name": "Financial Analyst",
+    "category": "Finance",
+    "description": "Evaluates financial data, forecasts corporate performance, values investment opportunities, and creates quantitative fiscal models.",
+    "education_path": "B.Com / BBA in Finance, Economics, or pursuing CFA (Chartered Financial Analyst)",
+    "work_style": "Analytical, meticulous, rigorous, investment banking or corporate treasury",
+    "required_skills": ["Mathematics", "Data Analysis", "Analytical Thinking", "Research", "Problem Solving"],
+    "recommended_subjects": ["Accountancy", "Economics", "Mathematics", "Business Studies"],
+    "related_interests": ["Working with numbers/business", "Financial problems", "Analyzing data"],
+    "typical_responsibilities": [
+      "Build dynamic financial forecasting models (DCF, LBO, 3-Statement)",
+      "Analyze historical quarterly earnings and industry benchmarks",
+      "Prepare investment recommendation memos and board presentations",
+      "Monitor macroeconomic indicators, interest rates, and market risks"
+    ],
+    "beginner_skills": ["Financial Accounting", "Excel Financial Formulas", "Ratio Analysis", "Corporate Finance"],
+    "advanced_skills": ["Discounted Cash Flow (DCF)", "M&A Modeling", "Capital Budgeting", "Portfolio Optimization"],
+    "roadmap": [
+      {"phase": "Stage 1: Accounting & Statements", "title": "Three Financial Statements", "description": "Master Income Statement, Balance Sheet, and Cash Flow reconciliation.", "topics": ["Statement Linking", "Accounting Rules", "Working Capital"]},
+      {"phase": "Stage 2: Valuation Modeling", "title": "Financial Modeling in Excel", "description": "Build dynamic 3-statement models and DCF valuation schedules.", "topics": ["WACC & CAPM", "DCF Valuation", "Comparable Company Analysis"]},
+      {"phase": "Stage 3: Corporate Finance", "title": "Capital Markets & Securities", "description": "Study fixed income, equity analysis, and corporate restructuring.", "topics": ["Fixed Income", "Equity Research", "Risk & Return"]},
+      {"phase": "Stage 4: Strategic Investment", "title": "M&A and Portfolio Strategy", "description": "Advise on transactions, mergers, debt structuring, and fund allocation.", "topics": ["LBO Modeling", "Merger Consequences", "CFA Level 1 Curriculum"]}
+    ],
+    "related_courses": [
+      {"title": "Financial Modeling & Valuation Analyst (FMVA)", "provider_type": "CFI Certification", "difficulty": "Intermediate"},
+      {"title": "CFA Level 1 Preparation Series", "provider_type": "CFA Institute", "difficulty": "Advanced"},
+      {"title": "Introduction to Corporate Finance", "provider_type": "Wharton Online", "difficulty": "Beginner"}
+    ],
+    "related_job_roles": ["Investment Banking Analyst", "Equity Research Associate", "Corporate Finance Analyst", "Portfolio Analyst"],
+    "benchmark_traits": {
+      "mathematics": 5,
+      "analytical_thinking": 5,
+      "data_analysis": 4,
+      "research": 4,
+      "time_management": 4
+    },
+    "preferred_goals": ["Financial growth", "Finance", "High technical expertise"],
+    "work_preference_matches": ["I enjoy analyzing information", "Analyze it step by step", "Research before deciding"]
+  },
+  {
+    "id": 12,
+    "name": "Chartered Accountant",
+    "category": "Finance",
+    "description": "Provides authoritative auditing, taxation, financial reporting, and statutory compliance guidance to corporations and individuals.",
+    "education_path": "Chartered Accountancy (CA / ACCA / CPA) accreditation + Article-ship training",
+    "work_style": "High-precision, compliance-focused, fiduciary responsibility, advisory",
+    "required_skills": ["Mathematics", "Analytical Thinking", "Time Management", "Problem Solving", "Logical Reasoning"],
+    "recommended_subjects": ["Accountancy", "Business Studies", "Economics", "Mathematics"],
+    "related_interests": ["Working with numbers/business", "Financial problems", "Organizing and managing activities"],
+    "typical_responsibilities": [
+      "Conduct statutory audits and internal financial review controls",
+      "Formulate corporate tax planning and file direct/indirect tax returns",
+      "Ensure compliance with International Financial Reporting Standards (IFRS)",
+      "Provide forensic accounting and risk advisory to corporate boards"
+    ],
+    "beginner_skills": ["Double-entry bookkeeping", "Income tax laws", "Auditing standards", "Tally / ERP"],
+    "advanced_skills": ["IFRS / GAAP standards", "Transfer Pricing", "Forensic Auditing", "Corporate Restructuring"],
+    "roadmap": [
+      {"phase": "Stage 1: Foundation", "title": "Mercantile Law & Accounting", "description": "Master principles of mercantile law, economics, and ledger accounts.", "topics": ["Accounting Concepts", "Business Law", "Quantitative Aptitude"]},
+      {"phase": "Stage 2: Intermediate Training", "title": "Corporate Accounting & Taxation", "description": "Study corporate law, cost management, direct taxation, and GST.", "topics": ["Company Law", "Direct & Indirect Tax", "Cost Accounting"]},
+      {"phase": "Stage 3: Practical Articleship", "title": "Audit & Financial Compliance", "description": "Gain mandatory hands-on experience at an authorized CA firm.", "topics": ["Statutory Audit", "Tax Filing", "Internal Controls"]},
+      {"phase": "Stage 4: Final Certification", "title": "Strategic Financial Management", "description": "Advance into strategic auditing, corporate governance, and advisory.", "topics": ["Advanced Auditing", "Financial Reporting (IFRS)", "International Taxation"]}
+    ],
+    "related_courses": [
+      {"title": "ICAI / ACCA Foundation & Skill Exams", "provider_type": "Statutory Professional Body", "difficulty": "Advanced"},
+      {"title": "GST and Corporate Taxation Practical Guide", "provider_type": "Taxation Institute", "difficulty": "Intermediate"},
+      {"title": "International Financial Reporting Standards (IFRS)", "provider_type": "Global Finance Program", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Statutory Auditor", "Tax Consultant", "Chief Financial Officer (CFO)", "Forensic Accountant"],
+    "benchmark_traits": {
+      "mathematics": 5,
+      "analytical_thinking": 5,
+      "time_management": 5,
+      "logical_reasoning": 4,
+      "problem_solving": 4
+    },
+    "preferred_goals": ["Stable professional career", "Finance", "Financial growth"],
+    "work_preference_matches": ["I enjoy organizing things", "Analyze it step by step", "Research before deciding"]
+  },
+  {
+    "id": 13,
+    "name": "Entrepreneur",
+    "category": "Entrepreneurship",
+    "description": "Identifies market opportunities, conceives innovative business models, raises capital, and scales new commercial ventures.",
+    "education_path": "Any undergraduate/postgraduate degree; strong experiential learning and startup incubator exposure",
+    "work_style": "High-risk high-reward, dynamic, visionary, resilient leadership",
+    "required_skills": ["Leadership", "Creativity", "Problem Solving", "Communication", "Time Management"],
+    "recommended_subjects": ["Business Studies", "Economics", "Computer Science", "Psychology"],
+    "related_interests": ["Starting a business", "Building something", "Managing a project", "Business problems"],
+    "typical_responsibilities": [
+      "Validate product-market fit through rapid customer discovery interviews",
+      "Recruit core founding teams and cultivate high-performance culture",
+      "Pitch venture capital investors and manage seed funding rounds",
+      "Oversee product vision, sales pipelines, and unit economics"
+    ],
+    "beginner_skills": ["Lean Canvas", "Pitch Deck creation", "Customer Discovery", "Basic Financials"],
+    "advanced_skills": ["Growth Hacking", "Venture Capital Financing", "Product Strategy", "Team Scaling"],
+    "roadmap": [
+      {"phase": "Stage 1: Ideation & Validation", "title": "Customer Problem Discovery", "description": "Identify customer friction, formulate value propositions, and build lean canvases.", "topics": ["Lean Startup Methodology", "Customer Interviews", "Value Proposition Design"]},
+      {"phase": "Stage 2: MVP Development", "title": "Build Minimum Viable Product", "description": "Create rapid prototypes or no-code MVPs to test early market traction.", "topics": ["Rapid Prototyping", "Early Adopter Onboarding", "Product Analytics"]},
+      {"phase": "Stage 3: Traction & Unit Economics", "title": "Go-to-Market & Sales", "description": "Establish repeat sales channels, customer acquisition cost, and gross margins.", "topics": ["B2B/B2C Sales", "Unit Economics", "Retention Funnels"]},
+      {"phase": "Stage 4: Scaling & Fundraising", "title": "Venture Capital & Scale", "description": "Pitch angel investors, raise equity capital, and hire department heads.", "topics": ["Investor Pitching", "Term Sheets & Cap Tables", "Organizational Scaling"]}
+    ],
+    "related_courses": [
+      {"title": "How to Start a Startup", "provider_type": "Y Combinator Startup School", "difficulty": "Beginner"},
+      {"title": "Entrepreneurship in Emerging Economies", "provider_type": "Harvard Online", "difficulty": "Intermediate"},
+      {"title": "Venture Deals: Be Smarter than Your Lawyer and VC", "provider_type": "Kauffman Fellows", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Founder / CEO", "Startup Co-founder", "Venture Partner", "Innovation Lead"],
+    "benchmark_traits": {
+      "leadership": 5,
+      "creativity": 5,
+      "problem_solving": 5,
+      "communication": 5,
+      "time_management": 4
+    },
+    "preferred_goals": ["Entrepreneurship", "Financial growth", "Leadership/management"],
+    "work_preference_matches": ["I enjoy leading others", "I enjoy creating things", "Leading a team"]
+  },
+  {
+    "id": 14,
+    "name": "Product Manager",
+    "category": "Business",
+    "description": "Guides the vision, execution, and strategy for tech products, coordinating software engineers, UI/UX designers, and business stakeholders.",
+    "education_path": "B.Tech/B.S. + MBA, or Product Management Certification",
+    "work_style": "High-collaboration, cross-functional leadership without direct authority",
+    "required_skills": ["Leadership", "Communication", "Problem Solving", "Analytical Thinking", "Presentation"],
+    "recommended_subjects": ["Computer Science", "Business Studies", "Psychology", "Economics"],
+    "related_interests": ["Managing a project", "Building something", "Solving logical problems", "Creating websites/apps"],
+    "typical_responsibilities": [
+      "Define product vision, quarterly roadmap, and strategic OKRs",
+      "Write comprehensive Product Requirement Documents (PRDs) and user stories",
+      "Analyze product telemetry metrics, funnel drop-offs, and feature adoption",
+      "Coordinate sprint backlogs with engineers and review UI design flows"
+    ],
+    "beginner_skills": ["Product Discovery", "PRD Writing", "Agile & Scrum", "Figma wireframing"],
+    "advanced_skills": ["Product Growth Loops", "Data Analytics (Mixpanel/Amplitude)", "Pricing Strategy", "Tech Architecture"],
+    "roadmap": [
+      {"phase": "Stage 1: Product Fundamentals", "title": "Customer Empathy & Problem Definition", "description": "Frame user problems, define personas, and validate problem statements.", "topics": ["Jobs-to-be-Done (JTBD)", "User Research", "Competitive Analysis"]},
+      {"phase": "Stage 2: Execution & Agile", "title": "PRDs, Roadmaps & Sprints", "description": "Write technical specifications, prioritize backlogs (RICE framework), and run scrums.", "topics": ["PRD Documentation", "RICE Prioritization", "Agile Ceremonies"]},
+      {"phase": "Stage 3: Metrics & Growth", "title": "Product Analytics & A/B Testing", "description": "Measure North Star metrics, cohort retention, and run feature experiments.", "topics": ["North Star Metrics", "A/B Testing", "Mixpanel / Amplitude"]},
+      {"phase": "Stage 4: Strategic Leadership", "title": "Product Strategy & Monetization", "description": "Align C-suite priorities, establish pricing models, and lead product portfolios.", "topics": ["Platform Strategy", "SaaS Pricing", "Executive Stakeholder Management"]}
+    ],
+    "related_courses": [
+      {"title": "Product Management Certified (PMC)", "provider_type": "Product School", "difficulty": "Intermediate"},
+      {"title": "Become a Product Manager | Learn the Skills", "provider_type": "Interactive Course", "difficulty": "Beginner"},
+      {"title": "Digital Product Management: Modern Fundamentals", "provider_type": "University of Virginia", "difficulty": "Beginner"}
+    ],
+    "related_job_roles": ["Associate Product Manager (APM)", "Technical Product Manager", "Group Product Manager", "Head of Product"],
+    "benchmark_traits": {
+      "leadership": 5,
+      "communication": 5,
+      "problem_solving": 5,
+      "analytical_thinking": 4,
+      "presentation": 4
+    },
+    "preferred_goals": ["Leadership/management", "Technology", "Financial growth"],
+    "work_preference_matches": ["Leading a team", "Working in a team", "Discuss it with others"]
+  },
+  {
+    "id": 15,
+    "name": "Research Scientist",
+    "category": "Science",
+    "description": "Conducts controlled laboratory experiments, publishes peer-reviewed scientific discoveries, and advances academic knowledge.",
+    "education_path": "B.Sc/M.Sc followed by a Ph.D. in Physics, Chemistry, Biology, or Computational Sciences",
+    "work_style": "Deep inquiry, rigorous experimentation, scientific integrity",
+    "required_skills": ["Research", "Analytical Thinking", "Writing", "Mathematics", "Problem Solving"],
+    "recommended_subjects": ["Physics", "Chemistry", "Biology", "Mathematics"],
+    "related_interests": ["Conducting scientific experiments", "Reading/researching", "Scientific problems"],
+    "typical_responsibilities": [
+      "Formulate research hypotheses and design experimental methodology",
+      "Operate specialized lab instrumentation and analyze statistical outputs",
+      "Author scientific papers and submit to international journals",
+      "Secure research grant funding from governmental and private organizations"
+    ],
+    "beginner_skills": ["Scientific Method", "Literature Review", "Lab Safety & Protocols", "Statistical Analysis"],
+    "advanced_skills": ["Grant Writing", "Peer Review Publishing", "Advanced Instrumentation", "Computational Modeling"],
+    "roadmap": [
+      {"phase": "Stage 1: Undergraduate Mastery", "title": "Core Natural Sciences", "description": "Solidify physical, chemical, or biological principles and laboratory hygiene.", "topics": ["Laboratory Techniques", "Scientific Literature", "Calculus & Statistics"]},
+      {"phase": "Stage 2: Graduate Research", "title": "Experimental Design & Thesis", "description": "Design independent research projects and complete thesis dissertations.", "topics": ["Research Methodology", "Data Interpretation", "Thesis Writing"]},
+      {"phase": "Stage 3: Doctoral Investigation", "title": "Ph.D. & Journal Publications", "description": "Produce original discoveries, present at conferences, and publish papers.", "topics": ["Peer-Reviewed Papers", "Conference Keynotes", "Specialized Instrument Training"]},
+      {"phase": "Stage 4: Principal Investigator", "title": "Lab Leadership & Grant Funding", "description": "Run institutional laboratories, supervise Ph.D. scholars, and manage research grants.", "topics": ["Grant Proposal Writing", "Lab Administration", "Patents & Tech Transfer"]}
+    ],
+    "related_courses": [
+      {"title": "Understanding Research Methods", "provider_type": "University of London", "difficulty": "Beginner"},
+      {"title": "Scientific Writing and Publishing", "provider_type": "Nature Masterclasses", "difficulty": "Intermediate"},
+      {"title": "Experimental Design and Statistical Analysis", "provider_type": "Academic Specialization", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Principal Investigator", "Postdoctoral Fellow", "R&D Scientist", "Clinical Research Scientist"],
+    "benchmark_traits": {
+      "research": 5,
+      "analytical_thinking": 5,
+      "writing": 4,
+      "mathematics": 4,
+      "problem_solving": 4
+    },
+    "preferred_goals": ["Research", "High technical expertise", "Social impact"],
+    "work_preference_matches": ["Research before deciding", "Working in a laboratory", "I enjoy discovering new ideas"]
+  },
+  {
+    "id": 16,
+    "name": "Teacher / Educator",
+    "category": "Education",
+    "description": "Inspires, instructs, and mentors students in classrooms and digital institutions, developing curricula and shaping future generations.",
+    "education_path": "Bachelor's/Master's in chosen subject + B.Ed (Bachelor of Education) or Teaching License",
+    "work_style": "Nurturing, engaging, structured communication, mentoring",
+    "required_skills": ["Communication", "Leadership", "Presentation", "Time Management", "Creativity"],
+    "recommended_subjects": ["English/Languages", "Psychology", "Mathematics", "History/Political Science"],
+    "related_interests": ["Helping and communicating with people", "Helping others", "Organizing and managing activities"],
+    "typical_responsibilities": [
+      "Prepare lesson plans aligned with curriculum standards and pedagogical goals",
+      "Deliver interactive classroom lectures and facilitate group discussions",
+      "Assess student progress through assignments, exams, and constructive feedback",
+      "Counsel students on academic improvement, character development, and ethics"
+    ],
+    "beginner_skills": ["Lesson Planning", "Classroom Management", "Public Speaking", "Formative Assessment"],
+    "advanced_skills": ["Curriculum Design", "Educational Psychology", "EdTech Integration", "Special Needs Pedagogy"],
+    "roadmap": [
+      {"phase": "Stage 1: Subject Mastery", "title": "Academic Subject Specialization", "description": "Deep subject knowledge in mathematics, sciences, literature, or social sciences.", "topics": ["Core Subject Foundations", "Literature & History", "Communication Skills"]},
+      {"phase": "Stage 2: Pedagogical Training", "title": "B.Ed & Educational Psychology", "description": "Study cognitive development, child psychology, and modern teaching methodologies.", "topics": ["Pedagogical Theories", "Instructional Design", "Student Assessment"]},
+      {"phase": "Stage 3: Practical Classroom Teaching", "title": "Student Teaching Internship", "description": "Teach under mentor guidance, handle diverse learning abilities, and manage class dynamics.", "topics": ["Classroom Engagement", "Differentiated Instruction", "EdTech Tools"]},
+      {"phase": "Stage 4: Educational Leadership", "title": "Curriculum Head & Administration", "description": "Design institutional syllabi, lead departments, and mentor junior educators.", "topics": ["Curriculum Frameworks", "School Leadership", "Parent-Teacher Counseling"]}
+    ],
+    "related_courses": [
+      {"title": "Foundations of Teaching for Learning", "provider_type": "Commonwealth Education Trust", "difficulty": "Beginner"},
+      {"title": "Instructional Design & Tech in Classrooms", "provider_type": "University Certification", "difficulty": "Intermediate"},
+      {"title": "Child Psychology and Learning Needs", "provider_type": "Specialized Diploma", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["High School Teacher", "University Lecturer", "Curriculum Developer", "Instructional Designer"],
+    "benchmark_traits": {
+      "communication": 5,
+      "leadership": 4,
+      "presentation": 5,
+      "creativity": 4,
+      "time_management": 4
+    },
+    "preferred_goals": ["Social impact", "Stable professional career", "Education"],
+    "work_preference_matches": ["I enjoy helping people", "Working with customers", "Discuss it with others"]
+  },
+  {
+    "id": 17,
+    "name": "Psychologist",
+    "category": "Healthcare",
+    "description": "Studies cognitive processes, human behavior, and emotional patterns to provide counseling, therapy, and mental wellness strategies.",
+    "education_path": "B.A./B.Sc in Psychology followed by M.A./M.Sc & M.Phil/Psy.D / Clinical Licensing",
+    "work_style": "Empathetic, confidential, active listening, clinical or counseling setting",
+    "required_skills": ["Communication", "Research", "Analytical Thinking", "Problem Solving"],
+    "recommended_subjects": ["Psychology", "Biology", "English/Languages"],
+    "related_interests": ["Helping and communicating with people", "Social problems", "Helping others", "Reading/researching"],
+    "typical_responsibilities": [
+      "Conduct psychological evaluations and psychometric diagnostic testing",
+      "Provide evidence-based psychotherapy (Cognitive Behavioral Therapy, etc.)",
+      "Help clients overcome anxiety, emotional trauma, and behavioral barriers",
+      "Conduct empirical psychological research on developmental behavior"
+    ],
+    "beginner_skills": ["Active Listening", "Psychological Theories", "Research Methods", "Ethics in Counseling"],
+    "advanced_skills": ["Cognitive Behavioral Therapy (CBT)", "Psychometrics", "Neuropsychology", "Crisis Intervention"],
+    "roadmap": [
+      {"phase": "Stage 1: Psychological Foundations", "title": "Cognitive & Developmental Psychology", "description": "Study human perception, memory, personality traits, and biological psychology.", "topics": ["General Psychology", "Biological Psychology", "Developmental Stages"]},
+      {"phase": "Stage 2: Psychometrics & Methods", "title": "Diagnostic Testing & Statistics", "description": "Administer psychological batteries, IQ evaluations, and personality assessments.", "topics": ["Psychological Assessment", "Abnormal Psychology", "Counseling Ethics"]},
+      {"phase": "Stage 3: Clinical Practicum", "title": "Supervised Clinical Hours", "description": "Work with patients under licensed supervising psychologists.", "topics": ["Therapeutic Alliance", "CBT Techniques", "Patient Case Studies"]},
+      {"phase": "Stage 4: Licensed Practitioner", "title": "Specialized Practice & Therapy", "description": "Open private consultation practice or lead institutional mental wellness programs.", "topics": ["Clinical Licensing", "Neuropsychological Therapy", "Trauma Counseling"]}
+    ],
+    "related_courses": [
+      {"title": "Introduction to Psychology", "provider_type": "Yale University", "difficulty": "Beginner"},
+      {"title": "Cognitive Behavioral Therapy (CBT) Foundations", "provider_type": "Psychotherapy Institute", "difficulty": "Intermediate"},
+      {"title": "Psychological First Aid & Counseling", "provider_type": "Johns Hopkins University", "difficulty": "Beginner"}
+    ],
+    "related_job_roles": ["Counseling Psychologist", "Clinical Psychologist", "Organizational Psychologist", "School Counselor"],
+    "benchmark_traits": {
+      "communication": 5,
+      "research": 4,
+      "analytical_thinking": 4,
+      "problem_solving": 4
+    },
+    "preferred_goals": ["Social impact", "Healthcare", "Stable professional career"],
+    "work_preference_matches": ["I enjoy helping people", "Discuss it with others", "Working with customers"]
+  },
+  {
+    "id": 18,
+    "name": "Healthcare Professional",
+    "category": "Healthcare",
+    "description": "Diagnoses, treats, and cares for patients, managing diseases and promoting physical well-being in clinics and hospital environments.",
+    "education_path": "MBBS, BDS, B.Pharm, B.Sc Nursing, or Allied Health Sciences Degrees",
+    "work_style": "High-urgency, patient-focused, clinical precision, hospital rounds",
+    "required_skills": ["Problem Solving", "Communication", "Teamwork", "Time Management", "Analytical Thinking"],
+    "recommended_subjects": ["Biology", "Chemistry", "Physics"],
+    "related_interests": ["Helping and communicating with people", "Scientific problems", "Helping others", "Conducting scientific experiments"],
+    "typical_responsibilities": [
+      "Examine patients and formulate differential clinical diagnoses",
+      "Prescribe medications, order lab diagnostics, and administer treatments",
+      "Perform or assist in surgical and therapeutic medical interventions",
+      "Educate patients and families on disease prevention and wellness"
+    ],
+    "beginner_skills": ["Human Anatomy & Physiology", "Medical Terminology", "First Aid & CPR", "Patient Triage"],
+    "advanced_skills": ["Clinical Diagnostics", "Pharmacology", "Surgical Assistance", "Emergency Critical Care"],
+    "roadmap": [
+      {"phase": "Stage 1: Pre-Clinical Sciences", "title": "Anatomy, Physiology & Biochemistry", "description": "Master human biological systems, organ anatomy, and biochemical cycles.", "topics": ["Gross Anatomy", "Human Physiology", "Medical Biochemistry"]},
+      {"phase": "Stage 2: Para-Clinical Training", "title": "Pathology & Pharmacology", "description": "Understand mechanisms of disease, microbiology, and drug interactions.", "topics": ["General Pathology", "Microbiology", "Pharmacology"]},
+      {"phase": "Stage 3: Clinical Rotations", "title": "Hospital Wards & Surgery", "description": "Hands-on rotations in Medicine, Surgery, Pediatrics, and OB-GYN.", "topics": ["Patient Examination", "Clinical Procedures", "Emergency Medicine"]},
+      {"phase": "Stage 4: Residency & Specialization", "title": "Postgraduate Residency", "description": "Intensive multi-year residency in chosen specialty (Cardiology, Ortho, etc.).", "topics": ["Supervised Practice", "Specialty Board Exams", "Healthcare Leadership"]}
+    ],
+    "related_courses": [
+      {"title": "Anatomy & Physiology Masterclass", "provider_type": "Medical School Online", "difficulty": "Intermediate"},
+      {"title": "Vital Signs: Understanding What the Body Is Telling Us", "provider_type": "University of Pennsylvania", "difficulty": "Beginner"},
+      {"title": "Clinical Pharmacology and Patient Safety", "provider_type": "Healthcare Association", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["General Physician", "Surgeon", "Medical Officer", "Clinical Pharmacist", "Nurse Practitioner"],
+    "benchmark_traits": {
+      "problem_solving": 5,
+      "communication": 5,
+      "teamwork": 4,
+      "time_management": 5,
+      "analytical_thinking": 4
+    },
+    "preferred_goals": ["Social impact", "Healthcare", "High technical expertise"],
+    "work_preference_matches": ["I enjoy helping people", "Working with customers", "Analyze it step by step"]
+  },
+  {
+    "id": 19,
+    "name": "Environmental Scientist",
+    "category": "Environment",
+    "description": "Investigates ecological systems, monitors pollution levels, and develops policies and sustainable solutions to protect the planet.",
+    "education_path": "B.Sc/M.Sc in Environmental Science, Ecology, Geology, or Environmental Engineering",
+    "work_style": "Fieldwork, lab analysis, sustainability consulting, ecological advocacy",
+    "required_skills": ["Research", "Analytical Thinking", "Data Analysis", "Problem Solving", "Writing"],
+    "recommended_subjects": ["Biology", "Chemistry", "Physics", "Geography"],
+    "related_interests": ["Environmental problems", "Conducting scientific experiments", "Reading/researching"],
+    "typical_responsibilities": [
+      "Collect and analyze air, soil, and water quality samples in the field",
+      "Assess environmental impact (EIA) for industrial and infrastructure projects",
+      "Model climate change mitigation scenarios and carbon footprints",
+      "Formulate conservation policies for ecological reserves and water bodies"
+    ],
+    "beginner_skills": ["Ecology Fundamentals", "Field Sampling", "Chemistry analysis", "GIS basics"],
+    "advanced_skills": ["Environmental Impact Assessment (EIA)", "Remote Sensing & GIS", "Environmental Law", "Climate Modeling"],
+    "roadmap": [
+      {"phase": "Stage 1: Ecological Foundations", "title": "Environmental Chemistry & Ecology", "description": "Study ecosystems, biodiversity, atmospheric science, and pollutant degradation.", "topics": ["Ecosystem Dynamics", "Environmental Chemistry", "Soil & Water Quality"]},
+      {"phase": "Stage 2: Spatial Tools & Sampling", "title": "GIS & Environmental Analytics", "description": "Map ecological parameters with QGIS and analyze statistical metrics.", "topics": ["ArcGIS / QGIS", "Fieldwork Protocols", "Statistical Modeling"]},
+      {"phase": "Stage 3: Impact Assessment", "title": "EIA & Environmental Regulations", "description": "Conduct regulatory impact reports and recommend industrial pollution controls.", "topics": ["EIA Documentation", "Waste Management", "Environmental Law"]},
+      {"phase": "Stage 4: Climate & Sustainability", "title": "Corporate ESG & Conservation", "description": "Lead corporate carbon reduction programs and renewable resources initiatives.", "topics": ["Carbon Accounting", "ESG Reporting", "Renewable Energy Policy"]}
+    ],
+    "related_courses": [
+      {"title": "Introduction to Environmental Science", "provider_type": "Dartmouth College", "difficulty": "Beginner"},
+      {"title": "GIS for Environmental Applications", "provider_type": "Specialized Lab", "difficulty": "Intermediate"},
+      {"title": "Corporate Sustainability and ESG Strategy", "provider_type": "UN Environment Program", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Sustainability Consultant", "EIA Officer", "Conservation Biologist", "Ecological Analyst"],
+    "benchmark_traits": {
+      "research": 5,
+      "analytical_thinking": 4,
+      "data_analysis": 4,
+      "problem_solving": 4,
+      "writing": 3
+    },
+    "preferred_goals": ["Social impact", "Research", "Environment"],
+    "work_preference_matches": ["I enjoy discovering new ideas", "Working in a laboratory", "Research before deciding"]
+  },
+  {
+    "id": 20,
+    "name": "Content / Media Professional",
+    "category": "Media",
+    "description": "Researches, writes, scripts, edits, and produces compelling media narratives for digital journalism, broadcast, podcasts, and corporate brands.",
+    "education_path": "B.A. in Journalism, Mass Communication, English Literature, or Media Studies",
+    "work_style": "Story-driven, deadline-oriented, investigative, creative and dynamic",
+    "required_skills": ["Writing", "Communication", "Creativity", "Research", "Time Management"],
+    "recommended_subjects": ["English/Languages", "History/Political Science", "Psychology"],
+    "related_interests": ["Writing and researching", "Creating designs/videos", "Social problems"],
+    "typical_responsibilities": [
+      "Research background material and interview subject-matter authorities",
+      "Author thought-leadership articles, video scripts, and press releases",
+      "Edit media pieces for clarity, narrative punch, and ethical compliance",
+      "Manage editorial calendars and multi-format content distribution"
+    ],
+    "beginner_skills": ["Storytelling principles", "Copy editing", "Audio/Video basics", "Interviewing techniques"],
+    "advanced_skills": ["Investigative Journalism", "Documentary Scripting", "Media Ethics", "Digital Publishing Platforms"],
+    "roadmap": [
+      {"phase": "Stage 1: Writing & Storytelling", "title": "Narrative Craft & Journalism Basics", "description": "Learn journalistic structure, hook writing, concise editing, and tone control.", "topics": ["Inverted Pyramid Style", "Grammar & Voice", "Fact-Checking"]},
+      {"phase": "Stage 2: Multi-Platform Media", "title": "Digital Content & Podcasting", "description": "Write and produce podcast scripts, short-form video stories, and newsletters.", "topics": ["Audio Recording", "Video Scripting", "CMS & Substack Publishing"]},
+      {"phase": "Stage 3: Investigative Research", "title": "In-Depth Reporting & Features", "description": "Conduct deep investigative journalism and publish long-form essays.", "topics": ["Freedom of Information", "Source Protection", "Feature Articles"]},
+      {"phase": "Stage 4: Editorial Leadership", "title": "Managing Editor & Brand Storytelling", "description": "Lead editorial teams, commission content pieces, and shape media brands.", "topics": ["Editorial Strategy", "Media Ethics & Law", "Creative Direction"]}
+    ],
+    "related_courses": [
+      {"title": "Journalism & Media in the Digital Age", "provider_type": "University of Michigan", "difficulty": "Beginner"},
+      {"title": "Creative Writing: The Craft of Story", "provider_type": "Wesleyan University", "difficulty": "Beginner"},
+      {"title": "Scriptwriting & Video Production Essentials", "provider_type": "Film Institute", "difficulty": "Intermediate"}
+    ],
+    "related_job_roles": ["Journalist", "Content Strategist", "Scriptwriter", "Podcast Producer", "Communications Lead"],
+    "benchmark_traits": {
+      "writing": 5,
+      "communication": 5,
+      "creativity": 5,
+      "research": 4,
+      "time_management": 4
+    },
+    "preferred_goals": ["Creativity", "Design/Media", "Social impact"],
+    "work_preference_matches": ["I enjoy creating things", "Try creative solutions", "Research before deciding"]
+  },
+  {
+    "id": 21,
+    "name": "Robotics & Automation Engineer",
+    "category": "Technology",
+    "description": "Designs, models, and programs autonomous robotic systems, actuators, and embedded software for industrial and futuristic applications.",
+    "education_path": "B.Tech/M.Tech in Mechatronics, Mechanical, Electrical, or Robotics Engineering",
+    "work_style": "Hands-on hardware & software fusion, prototyping, lab testing",
+    "required_skills": ["Programming", "Mathematics", "Problem Solving", "Logical Reasoning", "Creativity"],
+    "recommended_subjects": ["Physics", "Mathematics", "Computer Science"],
+    "related_interests": ["Building something", "Solving logical problems", "Learning technology", "Technical problems"],
+    "typical_responsibilities": [
+      "Design robotic kinematic models and control loop algorithms (PID)",
+      "Program embedded controllers and microprocessors (ROS, C++, Python)",
+      "Integrate sensors (LiDAR, ultrasonic, cameras) for environmental awareness",
+      "Simulate autonomous navigation, path planning, and obstacle avoidance"
+    ],
+    "beginner_skills": ["C++ / Python", "Arduino & Raspberry Pi", "Circuit design basics", "Physics mechanics"],
+    "advanced_skills": ["ROS (Robot Operating System)", "SLAM (Simultaneous Localization & Mapping)", "Computer Vision", "Control Systems"],
+    "roadmap": [
+      {"phase": "Stage 1: Mechanical & Electronic Core", "title": "Circuits, Sensors & Microcontrollers", "description": "Understand microcontrollers, motor drivers, circuit analysis, and C++.", "topics": ["C++ Basics", "Embedded Hardware", "Sensor Interfacing"]},
+      {"phase": "Stage 2: Robotics Fundamentals", "title": "Kinematics & Control Systems", "description": "Study forward/inverse kinematics, coordinate transformations, and PID controllers.", "topics": ["Robot Kinematics", "PID Tuning", "MATLAB / Simulink"]},
+      {"phase": "Stage 3: Robotic Software (ROS)", "title": "ROS2 & Simulation", "description": "Simulate robots in Gazebo, publish/subscribe nodes, and write ROS2 drivers.", "topics": ["ROS2 Architecture", "Gazebo Simulation", "Path Planning"]},
+      {"phase": "Stage 4: Autonomous Intelligence", "title": "SLAM & Computer Vision", "description": "Implement autonomous navigation, LiDAR SLAM, and real-time obstacle avoidance.", "topics": ["LiDAR Mapping", "OpenCV Vision", "Industrial Automation"]}
+    ],
+    "related_courses": [
+      {"title": "Modern Robotics: Mechanics, Planning, and Control", "provider_type": "Northwestern University", "difficulty": "Intermediate"},
+      {"title": "ROS2 for Robotics Developers", "provider_type": "Construct Robotics", "difficulty": "Intermediate"},
+      {"title": "Autonomous Navigation & SLAM", "provider_type": "University Lab Series", "difficulty": "Advanced"}
+    ],
+    "related_job_roles": ["Automation Engineer", "Embedded Software Engineer", "Mechatronics Specialist", "Robotics Research Engineer"],
+    "benchmark_traits": {
+      "problem_solving": 5,
+      "mathematics": 5,
+      "programming": 4,
+      "logical_reasoning": 5,
+      "creativity": 4
+    },
+    "preferred_goals": ["High technical expertise", "Technology", "Research"],
+    "work_preference_matches": ["Analyze it step by step", "I enjoy discovering new ideas", "Working in a laboratory"]
+  }
+]
